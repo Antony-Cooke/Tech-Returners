@@ -1,6 +1,7 @@
 h2 {
     color: silver;
     font-size: 60px;
+    font-family: Helvetica;
 }
 
 h3 {
@@ -18,4 +19,7 @@ span {
 
 img {
     display: block
+}
+tr {
+    text-align: left
 }
