@@ -1,0 +1,21 @@
+h2 {
+    color: silver;
+    font-size: 60px;
+}
+
+h3 {
+    background-color: rgb(255, 165, 0, 0.5);
+    width: 40%;
+}
+
+body {
+    background-color: palevioletred;
+}
+
+span {
+    background-color: navy
+}
+
+img {
+    display: block
+}
